@@ -33,7 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "natan-harum-football_news.pbp.cs.ui.ac.id"]
 
-CSRF_TRUSTED_ORIGINS = ["https://natan-harum-madridstore.pbp.cs.ui.ac.id"]
+CSRF_TRUSTED_ORIGINS = ["https://natan-harum-football_news.pbp.cs.ui.ac.id"]
 
 
 # Application definition
