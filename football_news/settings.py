@@ -35,7 +35,6 @@ ALLOWED_HOSTS = ["localhost", "127.0.0.1", "natan-harum-footballnews.pbp.cs.ui.a
 
 CSRF_TRUSTED_ORIGINS = ["https://natan-harum-footballnews.pbp.cs.ui.ac.id"]
 
-
 # Application definition
 
 INSTALLED_APPS = [
